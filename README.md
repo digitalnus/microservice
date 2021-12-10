@@ -1,6 +1,6 @@
 # 1.0 Overview
 
-HSA is the approving authority for all healthy snacks distributed and sold in the country. All distributors and sellers must register and seek approval before they are allowed to distribute healthy snacks for the general public.
+**Healthy Snacks Agency (HSA)** is the approving authority for all healthy snacks distributed and sold in the country. All distributors and sellers must register and seek approval before they are allowed to distribute healthy snacks for the general public.
 
 HSA is currently a system that has been running for over a decade, known as **PRIS** (Product Registration and Information System). 
 
